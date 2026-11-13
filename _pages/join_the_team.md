@@ -25,6 +25,24 @@ hybrid lab meetings! Current meeting details are below:
 [Schedule](https://docs.google.com/spreadsheets/d/1NC-65XCL2pyo_1xAkNYm-IOm_Fq3E36lI6ZCrMmS5FY/edit?usp=sharing)\
 **No meetings during academic breaks/holidays, see schedule for details about meeting dates**
 
+## Research Assistant Opportunities
+
+Interested in contributing to research at the CLiMB Lab? We are currently recruiting research assistants!
+
+- **Who you will work with:** Primarily with Dr. Miriam Hauptman.
+- **Current focus:** Supporting the design and collection of data for fMRI projects.
+- **Timeline:** Applications are open now and will be reviewed on a rolling basis until we find a good fit. Expected to start working in the winter quarter and continue at least two quarters.
+- Prior research experience is not required. 
+- However, it is required to be Stanford students and available to work in person on Stanford’s campus (currently we cannot sponsor visitors outside Stanford). Research assistants will have an opportunity to enroll in an independent study course (LINGUIST 199) to obtain course credit, with Dr. Cory Shain as the faculty supervisor.
+
+### How to apply
+
+1. Complete our [research assistant interest form](https://forms.gle/LRe6bm9viB1UiCW26) to share your motivation, research interests, and goals with us.
+2. Send your **CV** to [theclimblab@stanford.edu](mailto:theclimblab@stanford.edu) and copy [Miriam Hauptman](mailto:mhauptm@stanford.edu) with the subject line **CLiMB Lab RA Application + Your Name**.
+
+If you have any questions, please reach out to [Miriam Hauptman](mailto:mhauptm@stanford.edu)
+and/or [Erxiao Wang](mailto:exw@stanford.edu).
+
 ## Graduate Students
 
 We are taking graduate students!
@@ -48,6 +66,7 @@ undergraduates. Undergraduates typically participate in research by contributing
 they are typically expected to have at least a quarter's worth of active participation either in lab meetings
 or in a course taught by Cory before taking on research responsibilities. If you are a Stanford undergrad
 interested in joining the lab, see [lab meetings](#lab-meetings) above for details.
+
 
 ## Postdoctoral Researchers
 
